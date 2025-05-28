@@ -1,4 +1,4 @@
-# pyH2O2DeconNeb_KineticsModeling: Advanced Kinetic Modeling and GAN-Enhanced Synthetic Data Generation
+# GAN-Enhanced Kinetic Modeling: Advanced Kinetic Modeling and GAN-Enhanced Synthetic Data Generation
 
 ## Overview
 
