@@ -157,12 +157,24 @@ Several parameters within the script can be adjusted to explore different condit
     *   Network architecture (layers, neurons) in `build_generator` and `build_discriminator`.
 
 ## License
-
-(Specify your chosen license here, e.g., MIT, Apache 2.0. If unspecified, consider adding a standard open-source license.)
-
-Example:
-This project is licensed under the MIT License - see the `LICENSE.md` file for details (if you create one).
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Citation
 
-If you use this script or the methodologies presented in your research, I kindly request that you consider citing it. If uploaded to Zenodo, a DOI will be available for citation.
+If you use this script or the methodologies presented in your research, I kindly request that you cite it as follows:
+
+Fabregas, R. (2025). Kinetic Modeling with GAN-Enhanced Synthetic Data Generation (Version V1.0.1). Zenodo. https://doi.org/10.5281/zenodo.15536388
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15536388.svg)](https://doi.org/10.5281/zenodo.15536388)
+
+@software{fabregas_2025_15536388,
+  author       = {Fabregas, Rene},
+  title        = {{Kinetic Modeling with GAN-Enhanced Synthetic Data Generation}},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {V1.0.1},
+  doi          = {10.5281/zenodo.15536388},
+  url          = {https://doi.org/10.5281/zenodo.15536388}
+}
+
