@@ -167,6 +167,8 @@ Fabregas, R. (2025). Kinetic Modeling with GAN-Enhanced Synthetic Data Generatio
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15536388.svg)](https://doi.org/10.5281/zenodo.15536388)
 
+
+```bibtex
 @software{fabregas_2025_15536388,
   author       = {Fabregas, Rene},
   title        = {{Kinetic Modeling with GAN-Enhanced Synthetic Data Generation}},
